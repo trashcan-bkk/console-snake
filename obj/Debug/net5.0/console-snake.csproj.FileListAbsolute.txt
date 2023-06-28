@@ -1,0 +1,15 @@
+/Users/panitarn/Projects/console-snake/bin/Debug/net5.0/console-snake.deps.json
+/Users/panitarn/Projects/console-snake/bin/Debug/net5.0/console-snake.runtimeconfig.json
+/Users/panitarn/Projects/console-snake/bin/Debug/net5.0/console-snake.runtimeconfig.dev.json
+/Users/panitarn/Projects/console-snake/bin/Debug/net5.0/console-snake.dll
+/Users/panitarn/Projects/console-snake/bin/Debug/net5.0/ref/console-snake.dll
+/Users/panitarn/Projects/console-snake/bin/Debug/net5.0/console-snake.pdb
+/Users/panitarn/Projects/console-snake/obj/Debug/net5.0/console-snake.csproj.AssemblyReference.cache
+/Users/panitarn/Projects/console-snake/obj/Debug/net5.0/console-snake.GeneratedMSBuildEditorConfig.editorconfig
+/Users/panitarn/Projects/console-snake/obj/Debug/net5.0/console-snake.AssemblyInfoInputs.cache
+/Users/panitarn/Projects/console-snake/obj/Debug/net5.0/console-snake.AssemblyInfo.cs
+/Users/panitarn/Projects/console-snake/obj/Debug/net5.0/console-snake.csproj.CoreCompileInputs.cache
+/Users/panitarn/Projects/console-snake/obj/Debug/net5.0/console-snake.dll
+/Users/panitarn/Projects/console-snake/obj/Debug/net5.0/ref/console-snake.dll
+/Users/panitarn/Projects/console-snake/obj/Debug/net5.0/console-snake.pdb
+/Users/panitarn/Projects/console-snake/obj/Debug/net5.0/console-snake.genruntimeconfig.cache
